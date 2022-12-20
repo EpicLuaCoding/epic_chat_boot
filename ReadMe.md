@@ -1,4 +1,4 @@
-# Chat boot:
+# Chat bot KI:
 # Made by Epic Lua
 ## Version 1.0
 ## Inhalter:
