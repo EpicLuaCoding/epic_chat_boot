@@ -1,0 +1,17 @@
+{ "feel" : {
+    "Happy" : "frindly",
+    "honest" : "frindly",
+    "serious" : "neutral", 
+    "glad" : "frindly",
+    "fair" : "neutral",
+    "brave" : "strong",
+    "nice" : "frindly",
+    "optimistic" : "frindly",
+    "quiet" : ["neutral", "frindly"],
+    "clever" : "frindly"
+
+},
+"exprienced" : {
+    "0" : ["Boarn", "Happy", "frindly", "fair"]
+}
+}
