@@ -5,8 +5,8 @@ from functions.load import *
 KI = AI(load_file("memory.json")) # KI objekt erstellen
 print("start")
 while True:
-    text = input()
-    an = KI.chat_mode(text)
+    tex = input()
+    an = KI.chat_mode(tex)
     print(an)
     
 
